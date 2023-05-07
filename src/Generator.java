@@ -1,4 +1,3 @@
-package src;
 /**
  * Public class Generator:
  * Generates data sets based on the given V and E values and writing them to the file

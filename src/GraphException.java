@@ -1,4 +1,3 @@
-package src;
 // Used to signal violations of preconditions for
 // various shortest path algorithms.
 class GraphException extends RuntimeException

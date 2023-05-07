@@ -1,4 +1,3 @@
-package src;
 /*
  * Hussein Suleman code
  * Provided for CSC2001F Assignment 5

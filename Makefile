@@ -21,7 +21,7 @@ run:
 	@echo "Compiling and running application"
 	@mkdir -p $(BINDIR)
 	@$(JAVAC) -d $(BINDIR)/ ${SRCDIR}/*.java
-	@$(JAVA) -cp bin src/Program
+	@$(JAVA) -cp bin Program
 
 doc:
 	@echo "Generating javadocs"

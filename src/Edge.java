@@ -1,4 +1,3 @@
-package src;
 // Represents an edge in the graph.
 class Edge
 {
